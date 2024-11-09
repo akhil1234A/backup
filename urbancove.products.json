@@ -1,0 +1,509 @@
+[{
+  "_id": {
+    "$oid": "672214ec2c88aeefe3b960e7"
+  },
+  "productName": "Men Round Neck Pure Cotton T-shirt",
+  "productDescription": "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment",
+  "category": {
+    "$oid": "671a21b1ed1268c1b442da4b"
+  },
+  "subCategory": {
+    "$oid": "672213242c88aeefe3b960bc"
+  },
+  "price": 200,
+  "stock": 15,
+  "size": [
+    "L"
+  ],
+  "images": [
+    "uploads\\products\\processed-1730286827064.png",
+    "uploads\\products\\processed-1730286827494.png",
+    "uploads\\products\\processed-1730286827494.png",
+    "uploads\\products\\processed-1730286827495.png"
+  ],
+  "isBestSeller": false,
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-10-30T11:13:48.417Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-03T15:22:30.867Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67221aa52c88aeefe3b96128"
+  },
+  "productName": "Women Zip-Front Relaxed Fit Jacket",
+  "productDescription": "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment",
+  "category": {
+    "$oid": "671a21c3ed1268c1b442da4d"
+  },
+  "subCategory": {
+    "$oid": "672216702c88aeefe3b96124"
+  },
+  "price": 170,
+  "stock": 10,
+  "size": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "images": [
+    "uploads\\products\\processed-1730288293644.png",
+    "uploads\\products\\processed-1730288293645.png",
+    "uploads\\products\\processed-1730288293646.png"
+  ],
+  "isBestSeller": true,
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-10-30T11:38:13.718Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-30T11:38:13.718Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672220412c88aeefe3b96152"
+  },
+  "productName": "Women Round Neck Cotton Top",
+  "productDescription": "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment",
+  "category": {
+    "$oid": "671a21c3ed1268c1b442da4d"
+  },
+  "subCategory": {
+    "$oid": "672213242c88aeefe3b960bc"
+  },
+  "price": 100,
+  "stock": 0,
+  "size": [
+    "S",
+    "M",
+    "L"
+  ],
+  "images": [
+    "uploads\\products\\processed-1730289729543.png",
+    "uploads\\products\\processed-1730289729543.png",
+    "uploads\\products\\processed-1730289729544.png"
+  ],
+  "isBestSeller": true,
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-10-30T12:02:09.614Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-30T12:02:09.614Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6722212f2c88aeefe3b9615d"
+  },
+  "productName": "Women Round Neck Cotton Top",
+  "productDescription": "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment",
+  "category": {
+    "$oid": "671a21c3ed1268c1b442da4d"
+  },
+  "subCategory": {
+    "$oid": "672213242c88aeefe3b960bc"
+  },
+  "price": 100,
+  "stock": 0,
+  "size": [
+    "S",
+    "M",
+    "L"
+  ],
+  "images": [
+    "uploads\\products\\processed-1730289967136.png",
+    "uploads\\products\\processed-1730289967136.png",
+    "uploads\\products\\processed-1730289967137.png"
+  ],
+  "isBestSeller": true,
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-10-30T12:06:07.182Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-30T12:06:07.182Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672221eb2c88aeefe3b96178"
+  },
+  "productName": "Women Palazzo Pants with Waist Belt",
+  "productDescription": "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment",
+  "category": {
+    "$oid": "671a21c3ed1268c1b442da4d"
+  },
+  "subCategory": {
+    "$oid": "672221752c88aeefe3b96174"
+  },
+  "price": 190,
+  "stock": 20,
+  "size": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "images": [
+    "uploads\\products\\processed-1730290155479.png",
+    "uploads\\products\\processed-1730290155480.png",
+    "uploads\\products\\processed-1730290155480.png"
+  ],
+  "isBestSeller": true,
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-10-30T12:09:15.544Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-30T12:09:15.544Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672222672c88aeefe3b9618a"
+  },
+  "productName": "Women Palazzo Pants with Waist Belt",
+  "productDescription": "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment",
+  "category": {
+    "$oid": "671a21c3ed1268c1b442da4d"
+  },
+  "subCategory": {
+    "$oid": "672213242c88aeefe3b960bc"
+  },
+  "price": 200,
+  "stock": 25,
+  "size": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "images": [
+    "uploads\\products\\processed-1730290279287.png",
+    "uploads\\products\\processed-1730290279288.png",
+    "uploads\\products\\processed-1730290279288.png"
+  ],
+  "isBestSeller": true,
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-10-30T12:11:19.337Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-30T12:11:19.337Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672224a42c88aeefe3b961bf"
+  },
+  "productName": "Men Round Neck Pure Cotton T-shirt",
+  "productDescription": "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment",
+  "category": {
+    "$oid": "671a21b1ed1268c1b442da4b"
+  },
+  "subCategory": {
+    "$oid": "672213242c88aeefe3b960bc"
+  },
+  "price": 120,
+  "stock": 0,
+  "size": [
+    "S",
+    "M",
+    "L"
+  ],
+  "images": [
+    "uploads\\products\\processed-1730290852281.png",
+    "uploads\\products\\processed-1730290852282.png",
+    "uploads\\products\\processed-1730290852283.png"
+  ],
+  "isBestSeller": false,
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-10-30T12:20:52.326Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-30T12:20:52.326Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6722253c2c88aeefe3b961c9"
+  },
+  "productName": "Men Round Neck Pure Cotton T-shirt",
+  "productDescription": "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment",
+  "category": {
+    "$oid": "671a21b1ed1268c1b442da4b"
+  },
+  "subCategory": {
+    "$oid": "672213242c88aeefe3b960bc"
+  },
+  "price": 150,
+  "stock": 12,
+  "size": [
+    "S",
+    "M",
+    "L"
+  ],
+  "images": [
+    "uploads\\products\\processed-1730291004148.png",
+    "uploads\\products\\processed-1730291004148.png",
+    "uploads\\products\\processed-1730291004149.png"
+  ],
+  "isBestSeller": false,
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-10-30T12:23:24.210Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-30T12:23:24.210Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672225b32c88aeefe3b961d3"
+  },
+  "productName": "Men Tapered Fit Flat-Front Trousers",
+  "productDescription": "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment",
+  "category": {
+    "$oid": "671a21b1ed1268c1b442da4b"
+  },
+  "subCategory": {
+    "$oid": "672221752c88aeefe3b96174"
+  },
+  "price": 140,
+  "stock": 17,
+  "size": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "images": [
+    "uploads\\products\\processed-1730291123397.png",
+    "uploads\\products\\processed-1730291123397.png",
+    "uploads\\products\\processed-1730291123397.png"
+  ],
+  "isBestSeller": false,
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-10-30T12:25:23.457Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-30T12:25:23.457Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672226792c88aeefe3b9621b"
+  },
+  "productName": "Men Tapered Fit Flat-Front Trousers",
+  "productDescription": "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+  "category": {
+    "$oid": "671a21b1ed1268c1b442da4b"
+  },
+  "subCategory": {
+    "$oid": "672221752c88aeefe3b96174"
+  },
+  "price": 150,
+  "stock": 17,
+  "size": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "images": [
+    "uploads\\products\\processed-1730291321197.png",
+    "uploads\\products\\processed-1730291321198.png",
+    "uploads\\products\\processed-1730291321198.png",
+    "uploads\\products\\processed-1730291321199.png"
+  ],
+  "isBestSeller": false,
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-10-30T12:28:41.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-30T12:28:41.235Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672306bc7b368d8cdd1b1710"
+  },
+  "productName": "asdfdsasdfadsf",
+  "productDescription": "asdfadf",
+  "category": {
+    "$oid": "671a21b1ed1268c1b442da4b"
+  },
+  "subCategory": {
+    "$oid": "671a2c78a10d924e43a514c2"
+  },
+  "price": 200,
+  "stock": 22,
+  "size": [
+    null
+  ],
+  "images": [
+    "uploads\\products\\processed-1730348730875.png",
+    "uploads\\products\\processed-1730348731587.png",
+    "uploads\\products\\processed-1730348731588.png"
+  ],
+  "isBestSeller": false,
+  "isActive": false,
+  "createdAt": {
+    "$date": "2024-10-31T04:25:32.383Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-05T06:08:39.212Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6728e633c9c714c85f899ee3"
+  },
+  "productName": "asdf",
+  "productDescription": "asdf",
+  "category": {
+    "$oid": "671a21b1ed1268c1b442da4b"
+  },
+  "subCategory": {
+    "$oid": "671a2c78a10d924e43a514c2"
+  },
+  "price": 200,
+  "stock": 45,
+  "size": [
+    null
+  ],
+  "images": [
+    "uploads\\products\\processed-1730733599902.png",
+    "uploads\\products\\processed-1730733606927.png",
+    "uploads\\products\\processed-1730733606928.png"
+  ],
+  "isBestSeller": true,
+  "isActive": false,
+  "createdAt": {
+    "$date": "2024-11-04T15:20:24.967Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-05T06:08:40.229Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6729b76c9fe4a6b268d2dbad"
+  },
+  "productName": "new product",
+  "productDescription": "new product",
+  "category": {
+    "$oid": "671a21c3ed1268c1b442da4d"
+  },
+  "subCategory": {
+    "$oid": "672221752c88aeefe3b96174"
+  },
+  "price": 200,
+  "stock": 45,
+  "size": [
+    "L",
+    "XL"
+  ],
+  "images": [
+    "uploads\\products\\processed-1730787180018.png",
+    "uploads\\products\\processed-1730787180018.png",
+    "uploads\\products\\processed-1730787180019.png"
+  ],
+  "isBestSeller": true,
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-11-05T06:13:00.194Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-05T06:13:00.194Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6729be469fe4a6b268d2dc03"
+  },
+  "productName": "edit productsdsds",
+  "productDescription": "edit productssdsds",
+  "category": {
+    "$oid": "671a21b1ed1268c1b442da4b"
+  },
+  "subCategory": {
+    "$oid": "672805e93c061afa21a0b409"
+  },
+  "price": 500,
+  "stock": 25,
+  "size": [
+    "S",
+    "M"
+  ],
+  "images": [
+    "uploads\\products\\processed-1731081044760.png",
+    "uploads\\products\\processed-1731081044760.png",
+    "uploads\\products\\processed-1731081044763.png"
+  ],
+  "isBestSeller": true,
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-11-05T06:42:14.264Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-08T15:50:44.849Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672e344e66dbef33078a6ad9"
+  },
+  "productName": "test product",
+  "productDescription": "test product",
+  "category": {
+    "$oid": "671a21c3ed1268c1b442da4d"
+  },
+  "subCategory": {
+    "$oid": "672805c33c061afa21a0b3fa"
+  },
+  "price": 10000,
+  "stock": 55,
+  "size": [
+    "L",
+    "XL",
+    "S"
+  ],
+  "images": [
+    "uploads\\products\\processed-1731081294033.png",
+    "uploads\\products\\processed-1731081294034.png",
+    "uploads\\products\\processed-1731081294034.png"
+  ],
+  "isBestSeller": true,
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-11-08T15:54:54.132Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-08T15:54:54.132Z"
+  },
+  "__v": 0
+}]

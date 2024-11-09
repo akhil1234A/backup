@@ -1,0 +1,85 @@
+[{
+  "_id": {
+    "$oid": "672213242c88aeefe3b960bc"
+  },
+  "subCategory": "Topwear",
+  "category": {
+    "$oid": "671a21b1ed1268c1b442da4b"
+  },
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-10-30T11:06:13.290Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-03T23:44:49.974Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672216702c88aeefe3b96124"
+  },
+  "subCategory": "Winterwear",
+  "category": {
+    "$oid": "671a21c3ed1268c1b442da4d"
+  },
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-10-30T11:20:16.738Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-03T17:30:41.583Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672221752c88aeefe3b96174"
+  },
+  "subCategory": "Bottomwear",
+  "category": {
+    "$oid": "671a21c3ed1268c1b442da4d"
+  },
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-10-30T12:07:17.758Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-03T17:30:42.258Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672805c33c061afa21a0b3fa"
+  },
+  "subCategory": "Topwear",
+  "category": {
+    "$oid": "671a21c3ed1268c1b442da4d"
+  },
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-11-03T23:22:43.887Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-03T23:49:03.227Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672805e93c061afa21a0b409"
+  },
+  "subCategory": "Winterwear",
+  "category": {
+    "$oid": "671a21b1ed1268c1b442da4b"
+  },
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-11-03T23:23:21.457Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-03T23:49:04.484Z"
+  },
+  "__v": 0
+}]

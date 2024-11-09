@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "671a21b1ed1268c1b442da4b"
+  },
+  "category": "Men",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-10-24T10:30:09.922Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-03T17:06:03.406Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671a21c3ed1268c1b442da4d"
+  },
+  "category": "Women",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-10-24T10:30:27.699Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-30T12:15:07.743Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6722f4747057e9a4aa5c176d"
+  },
+  "category": "Kids",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-10-31T03:07:32.953Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-03T16:31:03.723Z"
+  },
+  "__v": 0
+}]

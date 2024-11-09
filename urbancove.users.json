@@ -1,0 +1,34 @@
+[{
+  "_id": {
+    "$oid": "672994857bc13ff58fd05ea6"
+  },
+  "name": "Akhil Anwer",
+  "email": "akhilanwerm@gmail.com",
+  "isActive": true,
+  "isVerified": false,
+  "googleID": "IqqpuGLglzazNvDw3AsAUPULezD2",
+  "createdAt": {
+    "$date": "2024-11-05T03:44:05.879Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-05T03:44:05.879Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672998bd7bc13ff58fd05eb3"
+  },
+  "name": "Akhil",
+  "email": "akhilanwarm@gmail.com",
+  "password": "$2b$10$JkJmxlmLTbpVLVT3qa6rX.07nhtZXk6jruX2da6r5LahwDb5ny3GC",
+  "isActive": false,
+  "isVerified": true,
+  "createdAt": {
+    "$date": "2024-11-05T04:02:05.559Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-05T06:44:55.682Z"
+  },
+  "__v": 0
+}]
